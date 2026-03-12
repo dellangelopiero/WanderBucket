@@ -83,5 +83,4 @@ git clone https://github.com/yourusername/wanderbucket.git
 
 ## 👨‍💻 Author
 
-Your Name
 Piero Dell Angelo
